@@ -11,8 +11,17 @@
     gap: 10px;
 }
 
-.item{
-    width: 90px;
-    height: 90px;
-    background-color: orange;
+.estiloNovo{
+    display: grid;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(109, 109, 234);
+    border: 1px solid black;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:aliceblue;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
